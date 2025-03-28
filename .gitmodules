@@ -1,0 +1,3 @@
+[submodule "PatternAuth"]
+	path = PatternAuth
+	url = https://github.com/jjjilot/PatternAuth.git
